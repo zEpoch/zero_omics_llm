@@ -1,1 +1,1 @@
-# zero_omics_llm
+# zero to omics llm
